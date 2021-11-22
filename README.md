@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Ethernal Initials NFT Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+An initials pair from AA to ZZ, and 00 to 99 that will live for eternity in this realm.
 
-Try running some of the following tasks:
+Live on [OpenSea](https://opensea.io/collection/ethernal-initials)!
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Contract address: [0xc40056f690fc45b2f542441194f8bfb8275affbf](https://polygonscan.com/address/0xc40056f690fc45b2f542441194f8bfb8275affbf#code)
+
+<img width="1435" alt="Screen Shot 2021-11-22 at 19 41 24" src="https://user-images.githubusercontent.com/12957692/142918712-5195cba8-c06b-44d2-9dd3-8acc790f103b.png">
+
